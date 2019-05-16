@@ -1,0 +1,13 @@
+# Don't track content of these folders
+.idea/
+
+# Compiled source #
+###################
+.idea
+.iws
+
+#File
+workspace.xml
+tasks.xml
+*/.idea/workspace.xml
+*/.idea/tasks.xml
